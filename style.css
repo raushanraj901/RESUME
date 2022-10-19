@@ -22,7 +22,7 @@ body{
     width: 28%;
     height: 28%; 
     margin-top: -15%;
-    margin-left: 10%;
+    margin-left: 9%;
 }
 #img{
     width: 100%;
@@ -35,7 +35,7 @@ body{
     
 }
 #headline{
-    margin-left: 10%;
+    margin-left: 9%;
     width: 45%;
 }
 #line{
@@ -55,12 +55,12 @@ body{
     width: 90%;
 }
 #logo{
-    margin-top: 9px;
+    margin-top: 8px;
     width: 14px;
     height: 14px;
 }
 #logo2{
-    margin-top: 8px;
+    margin-top: 9px;
     width: 25px;
     height: 25px;
 }
@@ -68,11 +68,15 @@ body{
     display: flex;
     gap: 12px;
 }
-#details{
+#details,#detail{
     width: 90%;
     font-weight: 500;
     margin-top: -10px;
     margin-bottom: -15px;
+}
+#detail{
+    display: flex;
+    text-align: justify;
 }
 h3{
     font-size: 17px;
@@ -82,7 +86,7 @@ a{
     color: black;
 }
 #education{
-    margin-top: -10px;
+    margin-top: -15px;
 }
 #education>h3{
     padding-bottom: 5px;
@@ -91,7 +95,7 @@ a{
     color: rgb(59, 59, 59);
     font-style: italic;
     margin-top: -20px;
-    font-size: 14px;
+    font-size: 15px;
     margin-left: 25px;
 }
 #h5{
@@ -128,9 +132,9 @@ a{
 }
 footer{
     border: 10px solid rgb(124, 70, 70);
-    margin-top: 10px;
+    margin-top: 25px;
 }
 #part2{
-    margin-top: -9%;
+    margin-top: -10%;
     width: 50%;
 }
