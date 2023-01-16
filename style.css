@@ -70,7 +70,7 @@ body{
     gap: 12px;
 }
 #details,#detail{
-    width: 90%;
+    width: auto;
     font-weight: 500;
     margin-top: -10px;
     margin-bottom: -15px;
