@@ -78,6 +78,7 @@ body{
 #detail{
     display: flex;
     text-align: justify;
+    width: 88%;
 }
 h3{
     font-size: 17px;
